@@ -1,0 +1,15 @@
+{
+  "name": "mongo-intro",
+  "version": "1.0.0",
+  "description": "node mongodb app skeleton",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iqbal Abdurrahman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
